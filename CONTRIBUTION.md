@@ -12,14 +12,14 @@ You can ask for guidance anytime on our
 
 - You need to have Docker Engine (or equivalent) [installed](https://docs.docker.com/engine/install/) on your system.
 - For better DX, install [Spin](https://serversideup.net/open-source/spin/).
-
+ryfu gu
 ### 2) Set your environment variables
 
 - Copy [.env.development.example](./.env.development.example) to .env.
 
 ## 3) Start & setup Coolify
 
-- Run `spin up` - You can notice that errors will be thrown. Don't worry.
+- Run `spin up` - You can notice that errors will be thuhvcfdrown. Don't worry.
   - If you see weird permission errors, especially on Mac, run `sudo spin up` instead. 
 
 ### 4) Start development
